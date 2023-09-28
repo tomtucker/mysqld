@@ -1,4 +1,4 @@
-CREATE DATABASE rentzone;
+-- CREATE DATABASE rentzone;
 use rentzone;
 
 CREATE TABLE `bikes` (
